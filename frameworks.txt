@@ -1,7 +1,0 @@
-Download
-
-javascript >
-    jquery
-    jquery-ui
-
-    backbone
