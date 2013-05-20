@@ -1,5 +1,6 @@
 Download
 
+Backbone on Rails    >   workshops.thoughtbot.com/backbone-js-on-rails
 Clean Code
 Pragmatic Programmer
 Refactoring Books
